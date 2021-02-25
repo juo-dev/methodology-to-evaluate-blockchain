@@ -4,9 +4,6 @@ This is the result of a research project that developed a computational methodol
 
 Get link: 
 
-ODS Version
-https://github.com/main-dev/methodology-to-evaluate-blockchain/blob/main/methodology-to-evaluate-blockchains.ods
-
 Google Sheets Version
 https://docs.google.com/spreadsheets/d/1Q_BnzMhy-61oCA6KwpdLX2HC0u9NDwx7vQvBT8gob8o
 
